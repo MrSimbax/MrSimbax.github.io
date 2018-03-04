@@ -8,10 +8,25 @@
     <language>pl-pl</language>
     <managingEditor>matt@przybyl.io (Mateusz Przybył)</managingEditor>
     <webMaster>matt@przybyl.io (Mateusz Przybył)</webMaster>
-    <lastBuildDate>Sat, 16 Jul 2016 18:17:45 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Mar 2018 11:23:52 +0100</lastBuildDate>
     
 	<atom:link href="http://przybyl.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jak wyciąć fragment filmu bez utraty jakości używając ffmpeg?</title>
+      <link>http://przybyl.io/post/ffmpeg-cut-video/</link>
+      <pubDate>Sun, 04 Mar 2018 11:23:52 +0100</pubDate>
+      <author>matt@przybyl.io (Mateusz Przybył)</author>
+      <guid>http://przybyl.io/post/ffmpeg-cut-video/</guid>
+      <description>&lt;p&gt;Zdarza mi się czasami oglądać jakiś film i zobaczyć scenę, która wywołuje u mnie
+taki zachwyt, że aż chcę udostępnić dany fragment koledze lub na jakimś czacie.
+Udostępnienie to nie jest problem, wystarczy chmura typu
+&lt;a href=&#34;https://dropbox.com/&#34;&gt;Dropbox&lt;/a&gt;. Problemem okazało się znalezienie narzędzia,
+które pozwoliłoby na wycięcie fragmentu z jak najmniejszą stratą jakości.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Zagadka o więźniach, co już nigdy tęczy mieli nie zobaczyć</title>
