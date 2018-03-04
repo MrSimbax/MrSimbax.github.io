@@ -18,8 +18,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
       <guid>http://przybyl.io/page/contact/</guid>
-      <description>Na dole strony znajdują się między innymi ikonki przekierowujące do moich profili społecznościowych, gdzie można do mnie napisać. Miej jednak na uwadze, że nie akceptuję zaproszeń do znajomych od nieznajomych osób.
-Mój adres mailowy poznasz po wciśnięciu ikonki koperty.</description>
+      <description>Na dole strony znajdują się między innymi ikonki przekierowujące do moich profili społecznościowych, gdzie można do mnie napisać. Miej jednak na uwadze, że nie akceptuję zaproszeń do znajomych od nieznajomych osób.</description>
     </item>
     
     <item>
@@ -29,8 +28,7 @@ Mój adres mailowy poznasz po wciśnięciu ikonki koperty.</description>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
       <guid>http://przybyl.io/page/about/</guid>
       <description>Cześć, jestem Mateusz Przybył, w Internecie rozpoznasz mnie po pseudonimie Simbax. Obecnie studiuję informatykę na Wydziale Podstawowych Problemów Techniki Politechniki Wrocławskiej.
-Staram się rozwijać w różnych kierunkach związanych z informatyką. Umiem coś ładnego zaprojektować w Inkscape, i trochę już w życiu programowałem, choć na razie nic komercyjnego. Zapraszam do przejrzenia mojego portfolio, gdzie zebrałem i opisałem krótko niektóre moje ciekawsze projekty.
-W wolnym czasie lubię przede wszystkim grać, choć preferuję raczej gry stosunkowo krótkie i z fabułą, ale ciekawym multi nie pogardzę.</description>
+Staram się rozwijać w różnych kierunkach związanych z informatyką. Umiem coś ładnego zaprojektować w Inkscape, i trochę już w życiu programowałem, choć na razie nic komercyjnego.</description>
     </item>
     
     <item>
@@ -39,9 +37,7 @@ W wolnym czasie lubię przede wszystkim grać, choć preferuję raczej gry stosu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
       <guid>http://przybyl.io/page/portfolio/</guid>
-      <description>Colobot: Gold Edition Kompilator Tetris Go Projectile Motion Simulation  SPOJ Run, Stupid, Run! Zakazany Las I wiele innych&amp;hellip;  Colobot: Gold Edition  Colobot: Gold Edition to gra RTS, w której możesz programować swe jednostki (roboty) w języku CBOT, podobnym do Java&amp;rsquo;y i C++. Twoją misją jest znaleźć nową planetę do zamieszkania i przetrwać. Ocal ludzkość i naucz się programować!
- Data: 2014 rok do teraz
-Link: https://colobot.</description>
+      <description>Colobot: Gold Edition Kompilator Tetris Go Projectile Motion Simulation  SPOJ Run, Stupid, Run! Zakazany Las I wiele innych&amp;hellip;  Colobot: Gold Edition  Colobot: Gold Edition to gra RTS, w której możesz programować swe jednostki (roboty) w języku CBOT, podobnym do Java&amp;rsquo;y i C++.</description>
     </item>
     
   </channel>

@@ -19,7 +19,7 @@
       <pubDate>Sat, 16 Jul 2016 18:17:45 +0200</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
       <guid>http://przybyl.io/post/zagadka-o-wiezniach/</guid>
-      <description>Zostajesz zamknięty w jednym pomieszczeniu razem z sześcioma nieznajomymi. Do pokoju wchodzi uzbrojony strażnik i informuje was, że wkrótce zostaniecie przeniesieni do osobnych izolowanych cel i od tego momentu nie będziecie już mogli się ze sobą komunikować. Następnie każdemu z was zostanie przydzielony jeden z siedmiu kolorów tęczy (czerwony, pomarańczowy, żółty, zielony, niebieski, indygo, fioletowy). Potem każdy z was zostanie poinformowany, jakie kolory zostały przydzielone pozostałym sześciu osobom, w porządku losowym.</description>
+      <description>Zostajesz zamknięty w jednym pomieszczeniu razem z sześcioma nieznajomymi. Do pokoju wchodzi uzbrojony strażnik i informuje was, że wkrótce zostaniecie przeniesieni do osobnych izolowanych cel i od tego momentu nie będziecie już mogli się ze sobą komunikować.</description>
     </item>
     
     <item>
@@ -28,7 +28,12 @@
       <pubDate>Sat, 07 May 2016 18:17:45 +0200</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
       <guid>http://przybyl.io/post/horror-games/</guid>
-      <description>Having beaten SOMA recently, I was curiously delving into the story, admiring the gorgeous, thoughtful, detailed, realistic environments created by Frictional Games, when I realized how much work and love must be put into the process of game developing. It took them nearly five years to finally release a masterfully crafted masterpiece in science fiction storytelling and horror genre. Not only did they spend this time on the game itself, but also on the whole behind-the-scenes background being a great appendix to the plot.</description>
+      <description>&lt;p&gt;Having beaten &lt;a href=&#34;http://somagame.com/&#34;&gt;SOMA&lt;/a&gt; recently, I was curiously delving
+into the story, admiring the gorgeous, thoughtful, detailed, realistic
+environments created by Frictional Games, when I realized how much work and love
+must be put into the process of game developing.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
