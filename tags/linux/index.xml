@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Przybył.io</title>
-    <link>http://przybyl.io/tags/linux/</link>
+    <link>https://przybyl.io/tags/linux/</link>
     <description>Recent content in Linux on Przybył.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
@@ -10,15 +10,15 @@
     <webMaster>matt@przybyl.io (Mateusz Przybył)</webMaster>
     <lastBuildDate>Sun, 04 Mar 2018 11:23:52 +0100</lastBuildDate>
     
-	<atom:link href="http://przybyl.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://przybyl.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jak wyciąć fragment filmu bez utraty jakości używając ffmpeg?</title>
-      <link>http://przybyl.io/post/ffmpeg-cut-video/</link>
+      <link>https://przybyl.io/post/ffmpeg-cut-video/</link>
       <pubDate>Sun, 04 Mar 2018 11:23:52 +0100</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
-      <guid>http://przybyl.io/post/ffmpeg-cut-video/</guid>
+      <guid>https://przybyl.io/post/ffmpeg-cut-video/</guid>
       <description>&lt;p&gt;Zdarza mi się czasami oglądać jakiś film i zobaczyć scenę, która wywołuje u mnie
 taki zachwyt, że aż chcę udostępnić dany fragment koledze lub na jakimś czacie.
 Udostępnienie to nie jest problem, wystarczy chmura typu

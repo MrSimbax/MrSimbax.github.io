@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Przybył.io</title>
-    <link>http://przybyl.io/categories/</link>
+    <link>https://przybyl.io/categories/</link>
     <description>Recent content in Categories on Przybył.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <managingEditor>matt@przybyl.io (Mateusz Przybył)</managingEditor>
     <webMaster>matt@przybyl.io (Mateusz Przybył)</webMaster>
     
-	<atom:link href="http://przybyl.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://przybyl.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

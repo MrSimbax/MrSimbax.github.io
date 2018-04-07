@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Przybył.io</title>
-    <link>http://przybyl.io/tags/</link>
+    <link>https://przybyl.io/tags/</link>
     <description>Recent content in Tags on Przybył.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
@@ -10,78 +10,78 @@
     <webMaster>matt@przybyl.io (Mateusz Przybył)</webMaster>
     <lastBuildDate>Sun, 04 Mar 2018 11:23:52 +0100</lastBuildDate>
     
-	<atom:link href="http://przybyl.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://przybyl.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bash</title>
-      <link>http://przybyl.io/tags/bash/</link>
+      <link>https://przybyl.io/tags/bash/</link>
       <pubDate>Sun, 04 Mar 2018 11:23:52 +0100</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
-      <guid>http://przybyl.io/tags/bash/</guid>
+      <guid>https://przybyl.io/tags/bash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Batch</title>
-      <link>http://przybyl.io/tags/batch/</link>
+      <link>https://przybyl.io/tags/batch/</link>
       <pubDate>Sun, 04 Mar 2018 11:23:52 +0100</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
-      <guid>http://przybyl.io/tags/batch/</guid>
+      <guid>https://przybyl.io/tags/batch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>http://przybyl.io/tags/english/</link>
+      <link>https://przybyl.io/tags/english/</link>
       <pubDate>Sat, 07 May 2016 18:17:45 +0200</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
-      <guid>http://przybyl.io/tags/english/</guid>
+      <guid>https://przybyl.io/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gamedev</title>
-      <link>http://przybyl.io/tags/gamedev/</link>
+      <link>https://przybyl.io/tags/gamedev/</link>
       <pubDate>Sat, 07 May 2016 18:17:45 +0200</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
-      <guid>http://przybyl.io/tags/gamedev/</guid>
+      <guid>https://przybyl.io/tags/gamedev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://przybyl.io/tags/linux/</link>
+      <link>https://przybyl.io/tags/linux/</link>
       <pubDate>Sun, 04 Mar 2018 11:23:52 +0100</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
-      <guid>http://przybyl.io/tags/linux/</guid>
+      <guid>https://przybyl.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math</title>
-      <link>http://przybyl.io/tags/math/</link>
+      <link>https://przybyl.io/tags/math/</link>
       <pubDate>Sat, 16 Jul 2016 18:17:45 +0200</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
-      <guid>http://przybyl.io/tags/math/</guid>
+      <guid>https://przybyl.io/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polish</title>
-      <link>http://przybyl.io/tags/polish/</link>
+      <link>https://przybyl.io/tags/polish/</link>
       <pubDate>Sun, 04 Mar 2018 11:23:52 +0100</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
-      <guid>http://przybyl.io/tags/polish/</guid>
+      <guid>https://przybyl.io/tags/polish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Puzzle</title>
-      <link>http://przybyl.io/tags/puzzle/</link>
+      <link>https://przybyl.io/tags/puzzle/</link>
       <pubDate>Sat, 16 Jul 2016 18:17:45 +0200</pubDate>
       <author>matt@przybyl.io (Mateusz Przybył)</author>
-      <guid>http://przybyl.io/tags/puzzle/</guid>
+      <guid>https://przybyl.io/tags/puzzle/</guid>
       <description></description>
     </item>
     
